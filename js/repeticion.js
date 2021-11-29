@@ -7,4 +7,14 @@
         alert(resul);
     }
 
+    var cont=0;
 
+    //----------while------------------
+    
+    while (cont<10)
+    {
+    
+     
+    alert (cont);
+    cont++;
+    }
